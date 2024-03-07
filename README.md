@@ -17,12 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meetptl04&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meetptl04&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=meetptl04&icon=5&color=6)](https://visitcount.itsvg.in)
 
