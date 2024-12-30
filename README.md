@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">Hi 👋, I'm Meet</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A developer from India</h3>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Frontend Development**
